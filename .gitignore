@@ -2,6 +2,7 @@
 
 
 #Things added by Isaac
+.DS_Store
 .vscode/launch.json
 project/minitorch
 
