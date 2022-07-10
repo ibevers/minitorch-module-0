@@ -1,3 +1,10 @@
+
+
+
+#Things added by Isaac
+.vscode/launch.json
+project/minitorch
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
